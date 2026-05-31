@@ -1,20 +1,42 @@
-* DEV'S PORTFOLIO WEBSITE *
+# DEV'S PORTFOLIO
 
-This portfolio website is built using React JS, Tailwind CSS, Animate CSS, and Formspree to showcase your work and personal information.
+A personal space on the web built to showcase my projects, interests, and journey as a Computer Engineering student. Designed with a focus on simplicity, aesthetics, and smooth user experience.
 
-* Features:- 
+## Built With
 
-> Fully responsive design, optimized for all screen sizes
-> Clean and modern user interface designed with Tailwind CSS
-> Animated effects with Animate CSS for an engaging user experience
-> Contact form powered by Formspree for easy communication with visitors
+* React.js
+* Tailwind CSS
+* Framer Motion
+* Formspree
 
-* Customizing Your Portfolio:- 
-The code for the website is well-documented and easy to customize. You can change the content, design, and add your own projects to showcase.
+## Highlights
 
-* Deployment:- 
-This website is deployed on the internet. Visit the link uploaded on the Github repository to view the project live.
+* Fully responsive across desktop, tablet, and mobile devices
+* Modern and minimal interface with smooth animations
+* Interactive project showcase and visual archive
+* Integrated social profiles and contact section
+* Fast, accessible, and performance-focused design
+* Contact form powered by Formspree
 
-* Contact:-
-If you have any questions or issues with the website, feel free to open an issue in the repository or send an email to 
-devvv0793@gmail.com
+## About This Portfolio
+
+This portfolio reflects my interests beyond academics and coding — from mathematics and aviation to motorcycles, music, cinema, and design. It's a collection of projects I've built, ideas that inspire me, and experiences that continue to shape my journey.
+
+## Featured Projects
+
+* RetireSahi
+* GullyGuide
+* Drowsy
+* DentArt
+* MediCare
+
+## Customization
+
+The codebase is structured to be easy to modify and extend. Content, styling, animations, and project data can be updated with minimal effort.
+
+## Connect
+
+Feel free to explore the portfolio, check out my work, or reach out through any of the linked social platforms.
+
+Email:
+[devvv0793@gmail.com](mailto:devvv0793@gmail.com)

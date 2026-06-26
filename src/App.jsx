@@ -43,6 +43,16 @@ const App = () => {
       {!loading && (
         <>
           <Navbar />
+          {/* Email Sidebar */}
+          <a
+            href="mailto:devvv0793@gmail.com"
+            className="hidden md:flex fixed left-8 bottom-32 z-40 items-center gap-4 group cursor-pointer"
+          >
+            <span className="text-sm text-white/60 group-hover:text-white transition-colors writing-mode-vertical transform -rotate-90 origin-left whitespace-nowrap">
+              devvv0793@gmail.com
+            </span>
+            <div className="w-[1px] h-12 bg-white/30 group-hover:bg-white transition-colors" />
+          </a>
           <Hero />
           <About />
           <Projects />

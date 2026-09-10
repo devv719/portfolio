@@ -2,8 +2,7 @@ name: daily commit
 
 on:
   schedule:
-    - cron: '0 23 * * *'
-      timezone: 'asia/kolkata'
+    - cron: '30 17 * * *'
   workflow_dispatch:
 
 permissions:
@@ -23,4 +22,3 @@ jobs:
           git config user.email "devv719@users.noreply.github.com"
           git commit --allow-empty -m "daily commit"
           git push
-          
